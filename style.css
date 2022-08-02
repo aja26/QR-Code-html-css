@@ -15,7 +15,7 @@ body{
     min-height: 100vh;
 }
 
-section{
+main{
     width: 300px;
     overflow: hidden;
     background: var(--white);
@@ -24,7 +24,7 @@ section{
     box-shadow: 0px 0px 18px rgba(46, 46, 46, 0.11);
 }
 
-section img{
+main img{
    width: 100%;
    border-radius: 0.60rem;
 }
