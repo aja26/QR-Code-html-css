@@ -35,13 +35,13 @@ main img{
    border-radius: 0.60rem;
 }
 
-.copy{
-    padding:  0rem 0.5rem
-}
-
 h1, p{
     font-family: 'Outfit', sans-serifs;
     text-align: center;
+}
+
+h1{
+    margin: 1rem 0rem;
 }
 
 p{
