@@ -7,6 +7,12 @@
 --dark-blue: hsl(218, 44%, 22%);
 }
 
+*{ 
+    margin: 0; 
+    box-sizing: border-box; 
+    padding: 0; 
+}
+
 body{
     background-color: var(--light-gray);
     display:flex;
